@@ -1,0 +1,2 @@
+INSERT INTO barang ( id_kategori, nama_barang, description_barang, harga_barang, created_at ) 
+VALUES (1, 'jersey timnas indonesia', 'ini description jersey timnas indonesia', 120000, '2024-02-14 18:00:00');

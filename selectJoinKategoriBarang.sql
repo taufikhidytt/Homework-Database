@@ -1,0 +1,1 @@
+SELECT * FROM kategori JOIN barang ON barang.id_kategori = kategori.id_kategori

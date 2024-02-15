@@ -1,0 +1,1 @@
+UPDATE kategori SET nama_kategori = 'pakaian olahraga', description_kategori = 'ini description pakaian olahraga', updated_at = '2024-02-14 19:00:00' WHERE id_kategori = 1
